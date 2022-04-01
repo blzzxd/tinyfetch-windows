@@ -10,5 +10,5 @@ python tinyfetch.py
 ## Extra
 There is a option, that will hide your IP Address. Just type `noip` at the end.
 ```bash 
-tinyfetch.py noip
+python tinyfetch.py noip
 ```

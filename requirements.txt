@@ -1,0 +1,6 @@
+This scipt has some modules to install through python-pip.
+
+pip install py-cpuinfo psutil
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Write this into your command line

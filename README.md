@@ -1,4 +1,4 @@
-# tinyfetch for windows
+# tinyfetch for Windows
 A command line python program that will show you some your system information.
 ## Installation
 Check the `requirements.txt` file
@@ -9,6 +9,6 @@ python tinyfetch.py
 ```
 ## Extra
 There is a option, that will hide your IP Address. Just type `noip` at the end.
-```bash 
+```bash
 python tinyfetch.py noip
 ```

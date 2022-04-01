@@ -1,5 +1,6 @@
 # tinyfetch for Windows
 A command line python program that will show you some your system information.
+![](https://github.com/artur-asimov/tinyfetch-windows/blob/main/example.png?raw=true)
 ## Installation
 Check the `requirements.txt` file
 ## Run

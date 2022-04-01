@@ -7,3 +7,7 @@ Just start it as python script, it's simple!
 ```bash
 python tinyfetch.py
 ```
+## Extra
+There is a option, that will hide your IP Address. Just type `noip` at the end.
+```bash tinyfetch.py noip
+```
